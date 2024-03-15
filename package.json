@@ -1,0 +1,12 @@
+{
+  "name": "X bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "bun ."
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.16.1"
+  }
+}
